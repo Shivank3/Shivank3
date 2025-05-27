@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivank_mangal" target="blank"><img src="https://img.shields.io/twitter/follow/shivank_mangal?logo=twitter&style=for-the-badge" alt="shivank_mangal" /></a> </p>
 
-- 🌱 I’m currently learning **C++,DSA,OS,DBMS,CN,SQL**
+- 🌱 I’m currently Learning **C#,.NET core,Angular,SQL**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **.Net core, OOPS, C#, ANgular**
 
 - 📫 How to reach me **shivankmangals@gmail.com**
 

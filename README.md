@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivank mangal</h1>
-<h3 align="center">A passionate Software Developement Engineer</h3>
+<h3 align="center">A Dotnet Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivank3&label=Profile%20views&color=0e75b6&style=flat" alt="shivank3" /> </p>
 
